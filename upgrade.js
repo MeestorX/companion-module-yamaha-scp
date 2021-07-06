@@ -80,8 +80,8 @@ module.exports = [
             }
 
             if(newAction != '') {
-                console.log(`Action ${action.action} => scp_${newAction}`);
-                action.action = 'scp_' + newAction;
+                console.log(`Action ${action.action} => r   cp_${newAction}`);
+                action.action = 'rcp_' + newAction;
                 changed = true;
             }
 
@@ -103,13 +103,13 @@ module.exports = [
         let checkUpgrade = function(action, changed) {
             let newAction = '';
 
-            if(action.action.substring(0, 4) != 'scp_') {
+            if(action.action.substring(0, 4) != 'rcp_') {
                 newAction = action.action;
             } 
 
             if(newAction != '') {
-                console.log(`Action ${action.action} => scp_${newAction}`);
-                action.action = 'scp_' + newAction;
+                console.log(`Action ${action.action} => rcp_${newAction}`);
+                action.action = 'rcp_' + newAction;
                 changed = true;
             }
 
