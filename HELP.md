@@ -1,4 +1,4 @@
-## Yamaha Simple Control Protocol - v1.4.1
+## Yamaha Remote Control Protocol - v1.4.1
 
 Please visit http://www.checkcheckonetwo.com for help, discussions, suggestions, etc.
 
@@ -20,7 +20,7 @@ MACROS ("Learn" Function)
         
         This will only work while connected to a console.
 
-        Drag the "Record SCP Macro" Preset to your page, press it to start recording, do stuff, then press it again to
+        Drag the "Record RCP Macro" Preset to your page, press it to start recording, do stuff, then press it again to
         stop recording. Go back to your presets and there'll be a new "Macro x" preset that you can now drag to
         your page.
 
