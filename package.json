@@ -1,24 +1,24 @@
 {
-	"name": "yamaha-scp",
+	"name": "yamaha-rcp",
 	"version": "1.4.2",
 	"api_version": "1.0.0",
-	"description": "Control module for Yamaha Pro Audio equipment via SCP",
+	"description": "Control module for Yamaha Pro Audio equipment via RCP",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"keywords": ["Audio","SCP","Mixer"],
+	"keywords": ["Audio","RCP","Mixer"],
 	"manufacturer": "Yamaha",
-	"product": ["TF (SCP)","QL/CL (SCP)"],
-	"shortname": "yamaha-scp",
-	"homepage": "https://github.com/bitfocus/companion-module-yamaha-scp#readme",
+	"product": ["TF (RCP)","QL/CL (RCP)"],
+	"shortname": "yamaha-rcp",
+	"homepage": "https://github.com/bitfocus/companion-module-yamaha-rcp#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/bitfocus/companion-module-yamaha-scp.git"
+		"url": "git+https://github.com/bitfocus/companion-module-yamaha-rcp.git"
 	},
 	"author": "Andrew Broughton <andy@checkcheckonetwo.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/bitfocus/companion-module-yamaha-scp/issues"
+		"url": "https://github.com/bitfocus/companion-module-yamaha-rcp/issues"
 	}
 }
