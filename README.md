@@ -1,4 +1,4 @@
-## Yamaha Simple Control Protocol
+## Yamaha Remote Control Protocol
 
 **Available for the following Yamaha Pro Audio Devices**
 
@@ -9,7 +9,7 @@
 
 **Available commands**
 
-* All available SCP "set" commands
+* All available RCP "set" commands
 * Recall Scenes
 
 Looking to add other functions such as macros and USB playback and whatever else!
